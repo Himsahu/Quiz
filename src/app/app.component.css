@@ -1,0 +1,232 @@
+.row
+{
+    top: 0px;
+    left: 0px;
+    width: 1366px;  
+    height: 768px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.col-6
+{
+    top: 10px;
+    left: 16px; 
+    width: 160px;
+    height: 25px;
+    text-align: left;
+    font: normal normal normal 20px/25px Merriweather Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    display: inline-block;
+}
+
+#one{
+    top: 10px;
+    left: -10px;
+    width: 200px;
+    height: 25px;
+    text-align: left;
+    font: normal normal normal 20px/25px Merriweather Sans;
+    letter-spacing: 0px;
+    color: #2F6690;
+    opacity: 1;
+}
+
+.col-sm-8{
+    border: 1px solid #2F6690;
+}
+.col-sm-8 .navbar{
+    background: #2F6690 0% 0% no-repeat padding-box;
+    opacity: 1;
+    top: 650px;
+    left: 0px;
+    width: 895px;
+    height: 70px;
+}
+
+.col-sm-4 .navbar{
+    opacity: 1;
+    left: 950px;
+    width: 910px;
+    height: 70px;
+}
+
+.badge
+{
+    top: 10px;
+    left: 989px;    
+    width: 138px;
+    height: 30px;
+    background: #2F6690 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    opacity: 1;
+}
+.navbar .button1
+{
+    font-family: Roboto;
+    font-weight: Medium;
+    font-size: 20px;
+    color:#5FA8D3; 
+    background:white;
+    top: 716px;
+    left: 22px;
+    width: 258px;
+    height: 42px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+.navbar .button2
+{
+    font-family: Roboto;
+    font-weight: Medium;
+    font-size: 20px;
+    color:#5FA8D3; 
+    background:white;
+    top: 716px;
+    left: 50px;
+    width: 179px;
+    height: 42px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+.navbar .button3{
+    top: 716px;
+    left: 948px;
+    width: 179px;
+    height: 42px;
+    background: #5FA8D3 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    text-align: center;
+    font: normal normal medium 20px/24px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.navbar .button4
+{
+    top: 716px;
+    left: 700px;
+    width: 179px;
+    height: 42px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 2px solid #62B6CB;
+    border-radius: 23px;
+    opacity: 1;
+}
+
+#profileImage
+{
+    float: left;
+}
+
+.list
+{
+    top: 235px;
+    left: 1152px;
+    width: 400px;
+    height: 33px;
+    background: #62B6CB 0% 0% no-repeat padding-box;
+    opacity: 1;
+    text-align: center;
+}
+
+#number
+{
+    top: 110px;
+    left: 21px;
+    width: 250px;
+    height: 25px;
+    text-align: center;
+    text-decoration: underline;
+    font: normal normal normal 20px/25px Merriweather Sans;
+    letter-spacing: 0px;
+    color: #2F6690;
+    opacity: 1;
+}
+
+.parent
+{
+    top:145px;
+    left: 22px;
+    width: 920px;
+    height: 133px;
+    text-align: center;
+}
+
+.parent > .child
+{
+    line-height: 133px;
+    font: normal normal normal 20px/133px Roboto;
+    color: #000000;
+    opacity: 1;
+}
+
+
+ #circle 
+{
+    top: 299px;
+    left:30px;
+    width: 60px;
+    height: 34px; 
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;   
+    border-radius: 25px;
+    background: #2F6690;
+    opacity: 1;
+    color: white;
+    text-align: center;
+} 
+
+#btn1
+{
+    top: 293px;
+left: 73px;
+width: 815px;
+height: 46px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #62B6CB;
+opacity: 1;
+}
+
+#btn2{
+    top: 354px;
+left: 73px;
+width: 815px;
+height: 46px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #62B6CB;
+opacity: 1;
+}
+
+#btn3{
+    top: 415px;
+    left: 73px;
+    width: 815px;
+    height: 46px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #62B6CB;
+    opacity: 1;
+}
+
+#btn4{
+    top: 476px;
+    left: 73px;
+    width: 815px;
+    height: 46px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #62B6CB;
+    opacity: 1;
+}
+
+.btn1.active
+{
+    background-color: #c0e4fde6 0% 0% no-repeat padding-box;
+    border: 1px solid #62B6CB;
+}
